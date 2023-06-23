@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rey Mattia
 - 👀 I’m interested in programming and the art of animation.
-- 🌱 I’m currently learning c#, javascript, lua.
+- 🌱 I’m currently learning c#, javascript, python, c++.
 - 💞️ I’m not looking to collaborate.
 - 📫 How to reach me: reymattia4@gmail.com
 
